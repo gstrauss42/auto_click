@@ -16,18 +16,15 @@ Built for Diablo IV altars. Record so far: **25 Butchers on screen at once.**
 
 ## ⚡ Quick start
 
-No GitHub account or coding needed.
+1. Click the green **`<> Code`** button → **Download ZIP**
+2. Right-click the zip → **Extract All**, then open the new folder
+3. Double-click **`clicker.bat`**. A small window opens and says **Ready**
+4. In game, put your cursor on the altar and press **F6**
+5. Press **F7** (or just close the window) when you're done
 
-1. Click the green **`<> Code`** button near the top of this page, then **Download ZIP** at the bottom of the menu
-2. Open your **Downloads** folder, right-click **`auto_click-main.zip`** and choose **Extract All…** → **Extract**
-3. In the window that opens, go into the **`auto_click-main`** folder and double-click **`clicker.bat`** (it may show as just **clicker** with a gear icon)
-4. A small black window opens and says **Ready**. Leave it open while you play
-5. In game, put your cursor on the altar and press **F6**
-6. Press **F7** (or close the small window) when you're done
+> **Windows warning?** Click **More info → Run anyway**. It shows up for any downloaded file that isn't from a big publisher.
 
-> **Blue "Windows protected your PC" box?** Windows shows this for any downloaded file that isn't from a big publisher. Click **More info**, then **Run anyway**.
-
-Nothing gets installed and no system settings change. It runs on the PowerShell already built into Windows. To uninstall, delete the folder and the zip.
+Nothing gets installed and no settings change. To remove it, delete the folder.
 
 ## 🎛️ Tweaking the count
 
